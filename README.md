@@ -28,8 +28,8 @@
   │<span style="color: #ffffff;"> SOCIAL NETWORKS             </span>│
   ├───────────────────────────────┤
   │ GitHub:   <a href="#" style="color: #ff0000;">this page</a> │
-  │ Telegram: <a href="t.me/kriplink" style="color: #ff0000;">*clk*</a>     │
-  │ VK:       <a href="vk.com/fanichi.usedcvnt" style="color: #ff0000;">*clk*</a>      │
+  │ Telegram: <a href="https://t.me/kriplink" style="color: #ff0000;">*clk*</a>     │
+  │ VK:       <a href="https://vk.com/fanichi.usedcvnt" style="color: #ff0000;">*clk*</a>      │
   │ YouTube:  <a href="https://youtube.com/@crepero4ek?si=H66kTl_qRz68GloW" style="color: #ff0000;">*clk*</a>      │
   └───────────────────────────────┘
   </pre>
